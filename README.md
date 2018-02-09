@@ -20,7 +20,7 @@ allprojects {
 Add the dependency:
 
 ```
-implementation 'com.github.irfanirawangits:gits-justify-text:1.0.0'
+implementation 'com.github.irfanirawangits:gits-justify-text:1.0.1'
 ```
 
 ## How to use it?

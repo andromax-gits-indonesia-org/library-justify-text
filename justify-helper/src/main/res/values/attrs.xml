@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JustifyTextView">
+        <attr name="just_for_you" format="boolean" />
+    </declare-styleable>
+</resources>

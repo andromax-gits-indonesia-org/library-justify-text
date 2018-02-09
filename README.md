@@ -1,8 +1,8 @@
 [![](https://jitpack.io/v/irfanirawangits/gits-justify-text.svg)](https://jitpack.io/#irfanirawangits/gits-justify-text)
 
-# GITS Connection Checker
+# GITS Justify TextView
 
-Simple library for android real-time connection checking.
+Simple library for justify text in android
 
 ## Installing
 
